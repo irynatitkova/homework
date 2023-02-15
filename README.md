@@ -1,3 +1,0 @@
-# homework
-homework 
-tel-ran
